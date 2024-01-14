@@ -12,6 +12,9 @@
   .imagen-testimonio {
     height: 100%;
     width: auto;
+    border-radius: 3.5%;
+    border: 1px solid #ccc;
+    box-shadow: 0 0 30px #777; 
   }
   
   .contenedor-texto-testimonio {
